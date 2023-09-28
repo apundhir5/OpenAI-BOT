@@ -1,0 +1,9 @@
+﻿StartTime, EndTime,ZipCode, EmployeeName,lat,lon
+8:00 AM,11: AM,48081,  Mark Beck,8:00 AM,11: AM, 48081,  Mark Beck,42.4976,-82.9182
+12:00 PM,4: PM,48083,  Mark Beck,12:00 PM,4: PM, 48083,  Mark Beck,42.5572,-83.1182
+9:00 AM,4: PM,48084,  John Smith,9:00 AM,4: PM, 48082,  John Smith,42.5623,-83.1756
+8:00 AM,10: AM,48081,  John Harding,8:00 AM,10: AM, 48081,  John Harding,42.498,-82.9185
+10:00 AM,2: PM,48081,  John Harding,10:00 AM,2: PM, 48081,  John Harding,42.4972,-82.9179
+3:00 PM,5: PM,48082,  John Harding,3:00 PM,5: PM, 48082,  John Harding,42.5473,-82.9068
+8:00 AM,11: AM,48082,  Tom,8:00 AM,11: AM, 48082,  Tom,42.5469,-82.9065
+12:00 PM,4: PM,48083,  Tom,12:00 PM,4: PM, 48083,  Tom,42.5568,-83.1179
