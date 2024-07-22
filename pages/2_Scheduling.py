@@ -129,7 +129,7 @@ def main():
 
 
 # def main_OLD():
-#     st.title("PGE Gen AI Scheduling BOT")
+#     st.title("Gen AI Scheduling BOT")
 
 #     map_container = st.container()
 

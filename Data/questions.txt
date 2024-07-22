@@ -1,7 +1,9 @@
 Scheduling
 
-1. Who all are working in 48081
-2. A client needs help in zip code 48082 tomorrow at 3PM. Who will be available to help out?  
+1. Who all are working in 48081?
+2. How about in 48084?
+3. A client needs help at 3PM. Who will be available to help out?  
+4. Who else is available at 3PM?
 
 
 Energy
